@@ -1,7 +1,6 @@
 import java.lang.Math;
 import java.util.Random;
 
-
 public class Homework5 {
     public static void main(String[] args) {
 //        1) scrieti o functie care primeste un sir de numere intregi si returneaza suma lor
